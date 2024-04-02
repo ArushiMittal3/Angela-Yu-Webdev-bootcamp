@@ -1,0 +1,6 @@
+/* Write your code here: */
+h1,h2{color:violet;}
+div>p{color: firebrick;}
+.box .list{color:green}
+li.done{color: blue;}
+ul p.done{font-size: 0.5rem;}

@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+}
+div {
+  height: 400px;
+  width: 400px;
+  margin: 150px;
+}
+h1 {
+  color: white;
+  margin-left: 8px;
+  text-transform: uppercase;
+}
+p {
+  color: white;
+  margin-left: 25%;
+}
+img {
+  width: 100%;
+  border: 5px solid white;
+}
